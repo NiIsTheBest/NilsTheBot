@@ -1,0 +1,2 @@
+# NilsTheBot
+A discord bot.
